@@ -293,6 +293,7 @@
 - [AckslD/muren.nvim](https://github.com/AckslD/muren.nvim/) - Multiple replacements through interactive UI.
 - [windwp/nvim-spectre](https://github.com/windwp/nvim-spectre) - Search and replace panel.
 - [nvimdev/hlsearch.nvim](https://github.com/nvimdev/hlsearch.nvim) - Auto remove search highlight and rehighlight when using n or N.
+- [mangelozzi/rgflow.nvim](https://github.com/mangelozzi/rgflow.nvim) - Get RipGrep results asynchronously into an editable QuickFix list, and helps you learn RipGrep's CLI.
 
 ## Fuzzy Finder
 
